@@ -9,5 +9,5 @@
 - Java
 - Spring Boot
 - OOP (Object Oriented Programming)
-##  roje Yapısı - EmployeeRepository.java - EmployeeServices.java - EmployeeServicesImpl.java 
+## Proje Yapısı - EmployeeRepository.java - EmployeeServices.java - EmployeeServicesImpl.java 
 ## Amaç Bu proje Java OOP mantığını öğrenmek için yapılmıştır.
